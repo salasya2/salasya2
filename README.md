@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Meh
 
 I'm an **AI Engineer** with **2 years of experience** building intelligent, production-ready AI systems. I specialize in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** pipelines, and end-to-end AI application development. Passionate about turning complex problems into elegant, scalable AI solutions.
 
@@ -65,12 +65,12 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salasya2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salasya2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salasya2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=salasya2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salasya2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salasya2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" width="48%"/>
 </p>
 
 ---
