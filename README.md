@@ -15,7 +15,7 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 - 🔭 Currently building: **LLM Gateway** — a high-performance Go-based gateway for LLM APIs
 - 🧠 Expertise in: **RAG architectures**, **vector databases**, and **prompt engineering**
 - 🌱 Always learning: Advanced agentic frameworks, multi-modal AI, and MLOps
-- 💬 Ask me about: LLMs, RAG, ChromaDB, LlamaIndex, Streamlit AI apps
+- 💬 Ask me about: LLMs, RAG, ChromaDB, LangChain, LangGraph, LlamaIndex, Streamlit AI apps
 - ⚡ Fun fact: I build AI that can recommend anime 🎌 and generate resumes ✍️
 
 ---
@@ -25,7 +25,9 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 ### 🤖 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B2FED?style=for-the-badge&logo=llama&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -52,10 +54,10 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 | [**llm-gateway**](https://github.com/salasya2/llm-gateway) | High-performance gateway for LLM API routing & management | Go |
 | [**AnimeRecommender**](https://github.com/salasya2/AnimeRecommender) | RAG-powered anime recommendation engine with ChromaDB & Streamlit | Python, RAG, ChromaDB |
 | [**ChatDB**](https://github.com/salasya2/ChatDB) | Natural language to SQL using vector-less RAG (Page Index) | Python, SQLite, RAG |
-| [**StudentLoanRepayment**](https://github.com/salasya2/StudentLoanRepayment) | GPT-4 powered CSV parser & AI chatbot for employee benefits | JavaScript, GPT-4 |
+| [**StudentLoanRepayment**](https://github.com/salasya2/StudentLoanRepayment) | LLM-powered CSV parser & AI chatbot for employee benefits | JavaScript, LangChain |
 | [**Resume-Generator**](https://github.com/salasya2/Resume-Generator) | Custom resume creator via Claude prompt engineering | Prompt Engineering |
 | [**Core-AI**](https://github.com/salasya2/Core-AI) | Core AI research & experimentation notebooks | Jupyter Notebook |
-| [**Flipkart-recommendation-Chatbot**](https://github.com/salasya2/Flipkart-recommendation-Chatbot) | History-aware retriever for ecommerce product recommendations | Python, RAG |
+| [**Flipkart-recommendation-Chatbot**](https://github.com/salasya2/Flipkart-recommendation-Chatbot) | History-aware retriever for ecommerce product recommendations | Python, RAG, LangChain |
 
 ---
 
@@ -75,8 +77,8 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 ## 🧩 What I'm Working On
 
 - 🔨 Building scalable **LLM gateway** infrastructure in Go for multi-model API management
-- 📚 Exploring **agentic AI workflows** and multi-step reasoning with LlamaIndex
-- 🎯 Deepening expertise in **production RAG systems** with efficient retrieval strategies
+- 📚 Exploring **agentic AI workflows** with LangGraph and multi-step reasoning
+- 🎯 Deepening expertise in **production RAG systems** with LangChain and efficient retrieval strategies
 
 ---
 
