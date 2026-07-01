@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Meh
+## 🚀 About Me
 
 I'm an **AI Engineer** with **2 years of experience** building intelligent, production-ready AI systems. I specialize in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)** pipelines, and end-to-end AI application development. Passionate about turning complex problems into elegant, scalable AI solutions.
 
