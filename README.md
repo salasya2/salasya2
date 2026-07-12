@@ -52,6 +52,7 @@ I'm an **AI Engineer** with **2 years of experience** building intelligent, prod
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
+| [**aehf**](https://github.com/salasya2/aehf) | A framework-agnostic harness for evaluating tool-using LLM agents| Python |
 | [**llm-gateway**](https://github.com/salasya2/llm-gateway) | High-performance gateway for LLM API routing & management | Go |
 | [**AnimeRecommender**](https://github.com/salasya2/AnimeRecommender) | RAG-powered anime recommendation engine with ChromaDB & Streamlit | Python, RAG, ChromaDB |
 | [**ChatDB**](https://github.com/salasya2/ChatDB) | Natural language to SQL using vector-less RAG (Page Index) | Python, SQLite, RAG |
